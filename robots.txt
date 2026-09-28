@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.yrecelm.cn/sitemap.xml

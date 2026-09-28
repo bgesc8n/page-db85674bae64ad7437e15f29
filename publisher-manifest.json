@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "79b70d904000ed8a53eeddae",
+  "owner": "bgesc8n",
+  "repo": "page-db85674bae64ad7437e15f29",
+  "title": "365VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "db85674bae64ad7437e15f29",
+      "a": "365VPN",
+      "b": "",
+      "entity": "365VPN",
+      "brand": "365VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e11ceeb5fef8dd87d3b8dd4acfd7b28a7b41d2ffd65dd5c6ef5124781437c6dc",
+      "content": {
+        "keyword1": "365VPN",
+        "keyword2": "",
+        "primary_entity": "365VPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "365VPN 提供安全稳定的VPN加速服务，支持多种套餐，立即下载客户端享受加速。",
+          "AI_DESCRIPTION": "365VPN 提供安全稳定的VPN加速服务，支持多种套餐，立即下载客户端享受加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:system-ui,-apple-system,sans-serif;background:#f8f9fa;color:#333;line-height:1.6;margin:0;padding:0}header{background:#fff;box-shadow:0 2px 4px rgba(0,0,0,.1)}nav{display:flex;justify-content:space-between;align-items:center;padding:1rem 2rem}.logo{font-size:1.5rem;font-weight:bold;color:#ff6b6b}.menu a{margin-left:1rem;color:#333;text-decoration:none}.hero{background:linear-gradient(to right,#ff6b6b,#f8f9fa);color:#fff;padding:4rem 2rem;text-align:center}.steps{display:flex;flex-direction:column;gap:2rem;max-width:800px;margin:2rem auto;padding:0 2rem}.step{background:#fff;padding:1.5rem;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,.05);border-left:4px solid #ff6b6b}.step h3{margin:0 0 .5rem;color:#ff6b6b}.faq details{background:#fff;margin-bottom:1rem;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,.05)}.faq summary{padding:1rem;font-weight:bold;cursor:pointer}.faq summary::marker{color:#ff6b6b}.faq .content{padding:0 1rem 1rem}footer{background:#333;color:#fff;padding:2rem;text-align:center}</style><header><nav><div class=\"logo\">365VPN</div><div class=\"menu\"><a href=\"#\">首页</a><a href=\"#plans-comparison\">套餐</a><a href=\"#faq\">FAQ</a><a href=\"#\">下载</a><a href=\"#\">联系</a></div></nav></header><main><h1>365VPN</h1><section><h2>品牌简介</h2><p>365VPN致力于为用户提供安全快速的网络加速服务。</p></section><section id=\"use-cases\"><h2>使用场景</h2><p>适用于日常上网、远程办公、在线娱乐、游戏加速等场景。</p></section><section id=\"use-steps\"><h2>操作说明</h2><div class=\"steps\"><div class=\"step\"><h3>步骤 1</h3><p>访问365VPN官网</p></div><div class=\"step\"><h3>步骤 2</h3><p>选择合适套餐</p></div><div class=\"step\"><h3>步骤 3</h3><p>下载客户端</p></div><div class=\"step\"><h3>步骤 4</h3><p>安装并配置账号</p></div><div class=\"step\"><h3>步骤 5</h3><p>连接加速节点</p></div></div></section><section id=\"plans-comparison\"><h2>套餐对比</h2>{{PLANS_HTML}}</section><section id=\"faq\"><h2>常见问题</h2><details><summary>什么是365VPN？</summary><div class=\"content\">365VPN是一款提供网络加速服务的平台。</div></details><details><summary>如何订阅365VPN？</summary><div class=\"content\">通过官网选择套餐并完成支付，即可获得访问权限。</div></details><details><summary>支持哪些设备？</summary><div class=\"content\">支持多台设备同时使用，请查看具体套餐。</div></details><details><summary>如何下载客户端？</summary><div class=\"content\">在官网下载页面获取最新版本客户端。</div></details><details><summary>有问题如何咨询？</summary><div class=\"content\">欢迎通过官网联系我们。</div></details></section><section id=\"clients\">{{CLIENTS_HTML}}</section></main><footer><p>© 365VPN 版权所有 | <a href=\"#\">隐私政策</a> | <a href=\"#\">用户协议</a></p><p>友情链接</p></footer>",
+          "hash": "4071c4c0117eb0b27dd4684afb002a8348c6b1681f2fd194fde34f2930c037a0",
+          "seo": {
+            "title": "365VPN - 高效VPN加速器，客户端下载，官网",
+            "keywords": "365VPN, VPN加速器, 机场订阅, 客户端下载",
+            "description": "365VPN 提供安全稳定的VPN加速服务，支持多种套餐，立即下载客户端享受加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yrecelm.cn",
+    "host": "c.yrecelm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "yrecelm.cn",
+      "url": "https://yrecelm.cn/",
+      "label": "IPLC",
+      "apex": "yrecelm.cn",
+      "kind": null,
+      "identity": "mumdvvmp/page-7cb9b7fca93a4c65be96e925"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9fe6781d661a29039d5e4e7d83f16d2bdd18423c16096792fe9355e5af1ad310",
+    "sitemap.xml": "5777fd5c9e69afe60fa6366f31d284f3854d38e8b3babb84b281e9dd05ca508e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c634ccb8d1496e8d45c5bc68b0c95b0db9a8e3d74901ad6e2f33bab1c994f450",
+    "robots.txt": "8293d7bd9ee86118bada0f50341da242c652511f51ad42d5a9b7f03645f2280b",
+    "f8095a26fedd5753ec2dd4e0058cee5e.txt": "214e58aa20f4f78a16270c7cf04c22c8d38b11e18d52ed74a47a0d374568c53b"
+  },
+  "revision": "e22ebd2d931635ae5dbb4114a8bea224036a71e55880da25b1a0e135811adb3b"
+}
